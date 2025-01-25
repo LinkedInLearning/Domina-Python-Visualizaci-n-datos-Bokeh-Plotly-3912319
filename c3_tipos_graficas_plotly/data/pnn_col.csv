@@ -1,0 +1,66 @@
+region,nombre,ecoturismo,tipo
+Amazonia,Parque Nacional Natural Alto Fragua Indi Wasi,no,PNN
+Amazonia,Parque Nacional Natural Amacayacu,si,PNN
+Amazonia,Parque Nacional Natural Cahuinarí,no,PNN
+Amazonia,Parque Nacional Natural La Paya,no,PNN
+Amazonia,Parque Nacional Natural Río Puré,no,PNN
+Amazonia,Parque Nacional Natural Serranía de Chiribiquete,no,PNN
+Amazonia,Parque Nacional Natural Serranía de los Churumbelos Auka Wasi,no,PNN
+Amazonia,Parque Nacional Natural Yaigojé Apaporis,no,PNN
+Amazonia,Reserva Nacional Natural Nukak,no,RNN
+Amazonia,Reserva Nacional Natural Puinawai,no,RNN
+Amazonia,Santuario de Flora Plantas Medicinales Orito Ingi – Ande,no,Santuario de Flora
+Andes Nororientales,Área Natural Única Los Estoraques,si,Área Natural Única
+Andes Nororientales,Parque Nacional Natural Catatumbo Barí,no,PNN
+Andes Nororientales,Parque Nacional Natural El Cocuy,si,PNN
+Andes Nororientales,Parque Nacional Natural Pisba,no,PNN
+Andes Nororientales,Parque Nacional Natural Serranía de Los Yariguíes,no,PNN
+Andes Nororientales,Parque Nacional Natural Tamá,si,PNN
+Andes Nororientales,Santuario de Fauna y Flora Guanentá Alto Río Fonce,no,SFF
+Andes Nororientales,Santuario de Fauna y Flora Iguaque,si,SFF
+Andes Occidentales,Parque Nacional Natural Complejo Volcánico Doña Juana – Cascabel,no,PNN
+Andes Occidentales,Parque Nacional Natural Cueva de los Guácharos,si,PNN
+Andes Occidentales,Parque Nacional Natural Las Hermosas Gloria Valencia de Castaño,no,PNN
+Andes Occidentales,Parque Nacional Natural Las Orquídeas,no,PNN
+Andes Occidentales,Parque Nacional Natural Los Nevados,si,PNN
+Andes Occidentales,Parque Nacional Natural Nevado del Huila,no,PNN
+Andes Occidentales,Parque Nacional Natural Puracé,si,PNN
+Andes Occidentales,Parque Nacional Natural Selva de Florencia,no,PNN
+Andes Occidentales,Parque Nacional Natural Tatamá,si,PNN
+Andes Occidentales,Santuario de Fauna y Flora Otún Quimbaya,si,SFF
+Andes Occidentales,Santuario de Flora y Fauna Galeras,si,SFF
+Andes Occidentales,Santuario de Flora Isla de la Corota,si,Santuario de Flora
+Caribe,Parque Nacional Natural Bahía Portete – Kaurrele,no,PNN
+Caribe,Parque Nacional Natural Corales de Profundidad,no,PNN
+Caribe,Parque Nacional Natural Corales del Rosario y de San Bernardo,si,PNN
+Caribe,Parque Nacional Natural Macuira,si,PNN
+Caribe,Parque Nacional Natural Old Providence McBean Lagoon,si,PNN
+Caribe,Parque Nacional Natural Paramillo,si,PNN
+Caribe,Parque Nacional Natural Sierra Nevada de Santa Marta,no,PNN
+Caribe,Parque Nacional Natural Tayrona,si,PNN
+Caribe,Reserva Natural Cordillera Beata,no,Reserva Natural
+Caribe,"Santuario de Fauna Acandí, Playón y Playona",no,Santuario de Fauna
+Caribe,Santuario de Fauna y Flora Los Flamencos,si,SFF
+Caribe,Santuario de Flora y Fauna Ciénaga Grande de Santa Marta,no,SFF
+Caribe,Santuario de Flora y Fauna El Corchal "El Mono Hernández",no,SFF
+Caribe,Santuario de Flora y Fauna Los Colorados,si,SFF
+Caribe,Vía Parque Isla de Salamanca,si,Parque
+Orinoquia,Distrito Nacional de Manejo Cinaruco,no,DMI
+Orinoquia,Parque Nacional Natural Chingaza,si,PNN
+Orinoquia,Parque Nacional Natural Cordillera de Los Picachos,si,PNN
+Orinoquia,Parque Nacional Natural El Tuparro,si,PNN
+Orinoquia,Parque Nacional Natural Serranía de Manacacías,si,PNN
+Orinoquia,Parque Nacional Natural Sierra de la Macarena,si,PNN
+Orinoquia,Parque Nacional Natural Sumapaz,no,PNN
+Orinoquia,Parque Nacional Natural Tinigua,si,PNN
+Pacífico,Distrito Nacional de Manejo Cabo Manglares,no,DMI
+Pacífico,Distrito Nacional de Manejo Colinas y Lomas Submarinas de la Cuenca Pacífico Norte,no,DMI
+Pacífico,Distrito Nacional de Manejo Integrado Yuruparí – Malpelo,no,DMI
+Pacífico,Parque Nacional Natural Farallones de Cali,si,PNN
+Pacífico,Parque Nacional Natural Gorgona,si,PNN
+Pacífico,Parque Nacional Natural Los Katíos,no,PNN
+Pacífico,Parque Nacional Natural Munchique,no,PNN
+Pacífico,Parque Nacional Natural Sanquianga,no,PNN
+Pacífico,Parque Nacional Natural Uramba Bahía Málaga,si,PNN
+Pacífico,Parque Nacional Natural Utría,si,PNN
+Pacífico,Santuario de Fauna y Flora Malpelo,si,SFF
