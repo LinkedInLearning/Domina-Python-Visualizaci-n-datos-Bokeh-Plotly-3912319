@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Domina Python: Visualización de datos con Bokeh y Plotly`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Domina Python: Visualización de datos con Bokeh y Plotly][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -40,7 +40,7 @@ Las directorios están estructuradas para corresponder a los vídeos del curso. 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: www.linkedin.com/learning/domina-python-visualizacion-de-datos-con-bokeh-y-plotly
+[lil-thumbnail-url]:https://media.licdn.com/dms/image/v2/D4E0DAQEP1ks5z-NpBA/learning-public-crop_675_1200/B4EZXcFmKPGwAc-/0/1743154210143?e=2147483647&v=beta&t=UWJI6MueFTlOboHtooxFTga8wZQHQcJjMh4BYZIZrpM
 
 [1]: # (End of ES-Instruction ###############################################################################################)
